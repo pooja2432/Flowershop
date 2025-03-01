@@ -16,6 +16,6 @@ A beautifully designed **Online Flower Shop** website built using **HTML, CSS, a
 - **JavaScript** – Adding interactivity.  
 
 
-👩‍💻 Developed by [Pooja Kumari]  
+👩‍💻 Developed by Pooja Kumari
 
 
